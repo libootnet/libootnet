@@ -2,7 +2,7 @@
 
 I'm a student in Japan
 
-<br />
+# Introduction
 
 I am good at web design and infrastructure development.
 

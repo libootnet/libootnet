@@ -12,4 +12,4 @@ I would be happy to hear from you at X(Twitter) if you have any questions!
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=golang,python,javascript,typescript,svelte,react,astro,zig,nextjs" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=golang,python,javascript,typescript,svelte,react,astro,nextjs,rust,zig" /> <br /><br />
